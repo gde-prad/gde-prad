@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in my ft_printf 🚀👨‍🚀!
+- 🔭 I’m currently working in cybersecurity 🚀💻!
 - 🌱 I’m currently learning in 42 Madrid! 🤓
-- 👯 I’m looking to collaborate on a minishell maybe 🤔?
+- 👯 I’m looking to collaborate on spanish resources for ukranian refugees 
 - 💬 Ask me about Bjj guards 🤼‍♂️ 
 - 📫 How to reach me: you can´t 🕵️
-
-[![gde-prad's 42 stats](https://badge42.vercel.app/api/v2/cl2vnzwj6000609lfrt6dpqbj/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **gde-prad/gde-prad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
